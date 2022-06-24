@@ -1,0 +1,13 @@
+package ex0624;
+
+public class DD {
+
+	public static void main(String[] args) {
+		
+		final int AA = 10;
+		final String cc = "문자열";
+		
+		System.out.println("AA = "+ AA);
+		System.out.println("CC = "+ cc);
+	}
+}

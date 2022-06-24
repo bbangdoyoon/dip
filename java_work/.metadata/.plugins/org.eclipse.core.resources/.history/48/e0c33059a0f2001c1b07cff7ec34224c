@@ -1,0 +1,11 @@
+package aa;
+
+public class CC {
+	public static void main(String[] ar) {
+		
+		System.out.println(1+9);
+		System.out.println(10+5);
+		
+	}
+
+}
