@@ -7,5 +7,8 @@ def greet():
     print(b)
 
 greet()
-print("aa")
+print("aasdfㅎㅏㄴㄱㅡa")
 greet()
+
+
+print("한글 잘되는데 한글팩 설치하면 안되요..asdasd한글.")

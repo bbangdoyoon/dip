@@ -10,6 +10,7 @@ public class GG {
 		System.out.println(num1 > num2);
 		System.out.println(num1 < num2);
 		
+	
 		System.out.println(num1 < num2 && num2 < num3);   // 앞이 true면, 뒤도 연산, 앞이 false면, 뒤는 연산 하지않는다
 		System.out.println(num1 > num2 && num2 < num3);
 		
