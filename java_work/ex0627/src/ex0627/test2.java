@@ -9,6 +9,7 @@ public class test2 {
 		int big;
 		int diff;
 		
+		
 		big = (num1 > num2) ? num1 : num2 ;
 		System.out.println("큰 수 : " + big);
 		

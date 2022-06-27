@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     div{
+        position: absolute;
+        background-color: palevioletred;
+        width: 300px;
+     }   
+     #bb{
+        right : 30px;
+        background-color: bisque;
+        width: 400px;
+     }
+     .cc{
+        bottom: 10px;;
+        background-color: paleturquoise;
+        height: 300px;
+     }
+    button{
+        margin: 30px;
+    }
+     
+    </style>
+    <script>
+        var a= 10;
+        function doA(){
+            alert("clicked");
+            document. getElementById('bb').style.left = a+"px"
+            a= a+10;
+        }
+    </script>
+</head>
+<body>
+    <div>AA</div>
+    <div id="bb">BB</div>
+    <div class="cc">CC</div>
+    <button onclick="doA()">abc</button>
+
+
+</body>
+</html>
