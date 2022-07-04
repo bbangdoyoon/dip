@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <style>
+        p{ counter-increment: rint;}
+        p::before{ content : counter(rint)"."; background-color: salmon; padding-right: 10px;}
+        p::after{ content : attr(dapa)"page"; color: dodgerblue; background-color: beige; margin-left: 30px;}
+        p::first-letter{ font-size: 3em;}
+
+    </style>
+    <script>
+        $(document).ready(function(){
+            var a = $('P').attr('dapa');
+            consols.log('p')
+        })
+    </script>
+</head>
+<body>
+    <h1>head</h1>
+    <p dapa="53">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam minus aperiam deleniti nam ab est? Eum maxime doloribus consequuntur tempore consectetur, possimus tenetur eos magni enim officiis et dolores quisquam.</p>
+    <p dapa="277">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum veniam ullam, voluptatem aspernatur distinctio architecto aut totam eaque quisquam consequatur unde, fugiat quibusdam? Minus optio ipsa modi, consequatur quas recusandae.</p>
+</body>
+</html>
