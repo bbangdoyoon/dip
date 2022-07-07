@@ -11,6 +11,7 @@ public class ex06 {
 		
 		BankAccount a2 = new BankAccount();      //new를 선언해야 새로만든다.
 		
+		
 	}
 
 }
