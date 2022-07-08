@@ -9,9 +9,14 @@ public class Point {
 	}
 
 	public void showPointInfo() {
-		System.out.println("[" + xPos + ", " + yPos + "]");
-	}
-	
-	
-
+		System.out.println("[" + xPos + ", " + yPos + "]");	
+	}	
 }
+
+class Circle{
+	private
+	int rad;
+	int Pointcenter;
+	circle(int x, int y, int )
+}
+

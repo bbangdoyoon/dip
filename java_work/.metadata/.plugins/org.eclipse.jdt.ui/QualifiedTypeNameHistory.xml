@@ -7,4 +7,14 @@
     <fullyQualifiedTypeName name="bb.AAA"/>
     <fullyQualifiedTypeName name="cc.AAA"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="zoo.AAA"/>
+    <fullyQualifiedTypeName name="zoo.Dog"/>
+    <fullyQualifiedTypeName name="zoo.Cat"/>
+    <fullyQualifiedTypeName name="zoo.Duck"/>
+    <fullyQualifiedTypeName name="ex0707.Cat"/>
+    <fullyQualifiedTypeName name="ex0707.Class"/>
+    <fullyQualifiedTypeName name="zoo.Class"/>
+    <fullyQualifiedTypeName name="zoo.point"/>
+    <fullyQualifiedTypeName name="java.awt.Point"/>
+    <fullyQualifiedTypeName name="zoo.Point"/>
 </qualifiedTypeNameHistroy>
