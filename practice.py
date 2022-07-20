@@ -115,3 +115,14 @@
 #         print("안녕하세요")
 # greet()   
 
+# print(type(3))
+# print(type(3.0))
+# print(type(3.1))
+
+# print(5 / 2)
+# print(5 // 2)
+# print(5 % 2)
+
+# num = 10
+# num = float(num)        #num의 값을 float형으로
+# print(type(num))        # float이 출력 됨
