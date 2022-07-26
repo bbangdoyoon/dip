@@ -126,3 +126,51 @@
 # num = 10
 # num = float(num)        #num의 값을 float형으로
 # print(type(num))        # float이 출력 됨
+
+# num = float("3.14") 
+# print(type(num))        # 출력시 num에 저장된 값이 float형임을 밝힘
+
+# height = eval(input("키 정보 입력 : "))
+# print(height)
+
+# height = float(input("키 정보 입력 : "))
+# print(height)
+
+# num = int(3.14)                 # 3.14를 int형으로 변환하라
+# print(num)                      # 3.14실수가 아닌 정수 3이 출력된다
+
+# height = eval(input("키 정보 cm단위로 입력 :"))         #eval 함수 호출
+# print(height)
+
+# height = int(input("키 정보 cm단위로 입력 : "))             # int함수 호출
+# print(height) 
+
+# num = 10
+# num +=1             # num = num + 1을 줄인 표현
+# print(num)
+
+# def int_div(n1,n2):
+#     print("몫 : ", n1 // n2)
+#     print("나머지 : ", n1 % n2 )
+# int_div(5,2)
+
+# def bet_sum(n1,n2):
+#     sum = 0
+#     for i in range(n1+1,n2):
+#         sum += i 
+#     print(sum)
+# bet_sum(2,5)
+# bet_sum(1,5)
+
+
+# st = [1, 2, 3, 4, 5]
+# st[1:4] = [3]
+# print(st)
+
+# st = [1, 2, 3, 4, 5]
+# st[2:] = 3, 3.5, 4 ,5
+# print(st)
+
+st = [1, 2, 3, 4, 5]
+st[1:4]=[]
+print(st)
