@@ -1,2 +1,8 @@
-package org.example;public class A {
+package org.example;
+
+public class A {
+
+    public void  doA(){
+        System.out.println("doA");
+    }
 }

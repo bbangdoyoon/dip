@@ -1,2 +1,4 @@
-package org.example.member;public class MemberREGService {
+package org.example.member;
+
+public class MemberREGService {
 }

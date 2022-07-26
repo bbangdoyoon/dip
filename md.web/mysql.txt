@@ -1,0 +1,17 @@
+#스키마 만들기
+CREATE SCHEMA `test` DEFAULT CHARACTER SET utf8;
+#테이블 만들기
+CREATE TABLE `test`.`fish` (
+  `inx` INT NOT NULL AUTO_INCREMENT,      #AUTO_INCREMENT(자동증가)
+  `weight` DECIMAL(22,3) NULL,
+  `height` DECIMAL(22,3) NULL,
+  `length` DECIMAL(22,3) NULL,
+  PRIMARY KEY (`inx`));
+
+#TABLE에 행 넣기
+INSERT INTO `test`, `fish`
+(`inx`, `weight`, `height`, `length`)
+VALUES
+(`1`, `22`, `30.0`, `500`)
+# TABLE columm추가하기
+ALTER TABLE `test`, `fish`

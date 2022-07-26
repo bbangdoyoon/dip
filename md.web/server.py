@@ -6,8 +6,6 @@ import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 import pymysql
 
-
-
 app = Flask(__name__,static_folder='static',template_folder='templates')
 
 lr = LinearRegression()

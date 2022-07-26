@@ -138,6 +138,9 @@ pre_scaled = ss.transform(pre)
 pre_value = lgb.predict(pre_scaled)
 print(pre_value)
 
+#회귀에서는 mse함수
+#분류에서는 log함수
+
 
 
 
