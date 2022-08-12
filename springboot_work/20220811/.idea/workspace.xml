@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37f5f27e-0596-43d2-abc3-b62133941f36" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/.idea/intellij_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/ImportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/MemberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/src/main/java/org/example/Appctx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/src/main/java/org/example/ChangePwdService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/src/main/java/org/example/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/src/main/java/org/example/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/src/main/java/org/example/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/ex0728/src/main/java/org/example/RequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/Appctx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/ChangePwdService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/ClassConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/ImportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/MemberDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/MemberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../intellij_work/practice/src/main/java/org/example/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mldl_work/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mldl_work/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mldl_work/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mldl_work/.idea/mldl_work.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mldl_work/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mldl_work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mldl_work/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap06/calre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap06/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap06/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap06/ex06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap06/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap06/fruitslog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/best_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/ex03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/ex04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/ex05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/model_weights.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap07/model_whole.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/best_cnn_model.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_18.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_27.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_28.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/conv1_9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/ex02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/ex07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/ex08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/img/conv1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/img/conv2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/model_weights.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap08/model_whole.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../pycharm_work/mldl/chap9/ex01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/20220811.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/.idea/org.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/org/out/artifacts/org_jar/org.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/org/src/main/java/com/dip/org/components/AA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/org/src/main/java/com/dip/org/controller/MemberController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/org/src/main/java/com/dip/org/controller/MemberRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/org/src/main/java/com/dip/org/dto/MemberDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../org/org/src/main/resources/templates/member.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.history/9a/80f67f7471f3001c1d5f82114327822e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.history/e6/d0235d7e71f3001c1d5f82114327822e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/practice/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.projects/practice/.indexes/e4/c5/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/1755401707.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/AA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/AA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/AAA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/AAA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/CA1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/CA1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/CA2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/CA2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex01$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex01$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Ex05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/PA.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0718/target/classes/org/example/PA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0719/target/classes/org/example/AgeReadException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0719/target/classes/org/example/AgeReadException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0719/target/classes/org/example/Insert.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0719/target/classes/org/example/Insert.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0719/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0719/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Ex01.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Ex01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Ex02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Ex02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Ex03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Ex03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/INum.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/INum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Main1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Point.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Point1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Point1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0720/target/classes/org/example/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Appcontext.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Appcontext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex02.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex03.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex04.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Ex06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Greeter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Greeter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Mymain.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Mymain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Mysingle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0721/target/classes/org/example/Mysingle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/A.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/config1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/config1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/MemberDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/MemberDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/MemberDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/MemberDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/MemberREGService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0725/target/classes/org/example/member/MemberREGService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/ClassConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/ClassConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/MemberDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/src/main/java/org/example/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/ClassConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/ClassConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/MemberDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/MemberDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/MemberDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/MemberDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../intellij_work/ex0726/target/classes/org/example/MemberService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pycharm_work/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pycharm_work/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pycharm_work/.idea/pycharm_work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../pycharm_work/.idea/pycharm_work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/1/b0e00ad45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/11/003811d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/11/905babd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/12/3010cfd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/12/30882cd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/12/30e470d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/12/603b76d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/13/308395d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/14/902610d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/14/e04aecd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/15/d0253fd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/16/40a49cd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/1b/d0510ed65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/1d/303778d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/1e/b02c99d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/1e/e0ca24d75b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/1f/b0c717d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/24/d015a7d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/25/40c4ead55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/25/50f336d75b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/26/10b46bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/28/6004a6d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/28/70c1fed55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/29/105390d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/29/303ef1d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/2a/c0e980d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/2b/40ed75d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/2b/50a80ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/2b/e009eed35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/2e/c084ffd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/3/f0f9ffd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/30/80e367d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/31/f0913ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/32/002100d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/32/008dfad35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/33/f0ed0dd45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/34/004a8bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/35/60ca02d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/35/70b32ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/38/00e509d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/38/6095f6d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/3d/208109d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4/405e07d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4/40835dd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/41/00765ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/43/103a2cd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/43/40400cd45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/48/b04157d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/49/e0814bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4a/202e02d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4b/60605bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4b/6085cfd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4d/e0b99bd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4e/c07f68d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/4f/9079a6d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/51/50fb11d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/52/707916d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/52/b04f2bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/52/f0a161d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/55/4083ecd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/58/302067d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/59/f07c0bd45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/5c/a09496d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/5d/90030dd45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/5d/a09b80d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/5e/b0fe76d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/60/a05f8ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/61/303c0fd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/61/b05868d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/63/801803d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/64/30454cd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/66/006f70d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/66/d0d48ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/69/2068a5d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/69/90e511d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/6b/1043f8d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/6c/0028ead55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/6c/00abf5d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/6d/a0ce39d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/6d/c07d15d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/6e/004838d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/7/401b98d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/73/d09641d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/74/607e56d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/75/80a771d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/75/f05e81d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/77/407c02d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/79/f0eb2bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/7a/f0a1f0d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/7d/505ecfd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/81/60d15dd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/82/90183cd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/84/704821d75b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/86/300eedd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/86/e03781d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/88/a0f22dd75b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/8f/104116d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/9/c0bb5ed65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/93/0078add65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/93/20a6eed35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/94/50c858d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/95/506e67d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/98/301293d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/9b/70ea89d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/9d/100eecd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/9f/509a36d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a1/e0fb8ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a2/90ea19d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a3/d0a4a4d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a5/00e001d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a5/70bc67d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a6/80d3cfd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a8/601d0ad45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/a9/609c51d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ab/b005f0d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ac/a05d37d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b0/b0d73ed65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b1/b03312d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b2/00337ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b2/e04cced35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b3/40553bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b4/50934cd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b4/70aaedd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b6/9087ebd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b7/10256ed65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/b9/10c2ced35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/bd/101e13d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/be/b0868ad65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c/20f9f5d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c2/10b2a7d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c2/40b10ed45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c2/b05dffd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c4/900815d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c6/2037b0d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c6/50d87fd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c6/60e86ed65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c6/80084dd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c8/b064e9d55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/c9/a07d14d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ca/d06a72d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/cd/a06dedd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/cf/202e73d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/d/b0b259d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/d0/301040d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/d2/40f45fd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/d5/00d735d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/d5/b0b943d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/d6/00d04bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/d7/009455d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/db/909621d75b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/dd/804d80d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/de/500b39d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/df/501befd35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/df/50a302d45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/e0/60ba4cd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/e0/b0ab6fd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/e4/007407d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ea/80d593d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ea/a07d85d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ed/b0d054d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ee/d0e00bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ef/a09b0fd45b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/f0/f08022d75b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/f3/000558d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/f3/d09894d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/f3/d09d2bd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/f4/40f20cd65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/f5/206f00d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/f6/e01733d65b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/fb/b07bfad55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/fd/f0fbe1d35b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.history/ff/90679dd55b09001d1e96a0b7fe473b86" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap02/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap02/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap02/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap03/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap03/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap04/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap04/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap05/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap05/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap06/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap06/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap07/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap07/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap08/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap08/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap08/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap09/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap09/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap09/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap10/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap10/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap10/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap11-tag/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap11-tag/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap11/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap11/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap11/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12-bv/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12-bv/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12-gl/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12-gl/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12-gl/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap12/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap13/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap13/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap13/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap14/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap14/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap16/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap16/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap17/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chap17/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chapb/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chapb/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chapc-boot/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chapc-boot/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chapc/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chapc/.location" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.projects/sp5-chapc/.markers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/Cloud Foundry.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/Docker.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.egit.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.springframework.ide.eclipse.boot.dash.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1023091031.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1028573586.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1176679688.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1206768546.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1211878902.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1268823722.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1349269001.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1379515782.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1561640676.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1640115326.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1689455519.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1699556034.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1709528835.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1723204273.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1731957804.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1769662840.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/181788108.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1876783975.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1885460537.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/1929342331.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2108594040.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2114839209.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2127693486.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2166617801.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2229467927.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2251498283.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2272561236.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2293162596.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2302277009.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2322264529.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2326076980.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2427728167.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2452437357.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2489533279.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/254144352.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2567790944.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2592833883.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2637666014.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2687332178.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2730681082.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2811386603.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2827878165.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2885798418.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2938104090.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/2947492078.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3058884332.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3277348705.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3287639308.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3303159220.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3344678422.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/334904215.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3400068251.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3420982704.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3503455656.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3545245975.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3590893915.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3771812519.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3810128273.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/386008266.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3877283406.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3887268273.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3905832270.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/3962797604.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/4009257804.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/4034115778.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/4053191746.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/4062239282.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/4106833321.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/4129605215.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/4290433424.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/451466073.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/497879742.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/511564270.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/575358134.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/589453405.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/677705305.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/775813197.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/908652956.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/993877809.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/indexNamesMap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/05b0fe8524860bd73cbb07ef30fb34cc/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/462647d8a63902c76c29a0c088cd93cf/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/462647d8a63902c76c29a0c088cd93cf/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/462647d8a63902c76c29a0c088cd93cf/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/462647d8a63902c76c29a0c088cd93cf/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0.cfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0.cfs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/_0.si" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/nexus/830bc118332e77292949ed1e6d2fabe0/segments_2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap02.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap03.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap04.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap05.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap06.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap07.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap08.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap09.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap10.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap11-tag.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap11.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap12-bv.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap12-gl.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap12.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap13.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap14.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap16.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chap17.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chapb.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chapc-boot.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/sp5-chapc.lifecyclemapping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.core/workspacestate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap02.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap03.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap04.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap05.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap06.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap07.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap08.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap09.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap10.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap11-tag.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap11.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap12-bv.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap12-gl.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap12.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap13.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap14.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap16.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chap17.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chapb.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chapc-boot.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.jdt/sp5-chapc.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.16.3.20211002-1029.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring_work/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring_work/.metadata/version.ini" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2DBoKIbAUC8hoDFUYfvOf2MKkn4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/mhgit/springboot_work/20220811/org"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="OrgApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dip.org.OrgApplication" />
+      <module name="org" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dip.org.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.OrgApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="37f5f27e-0596-43d2-abc3-b62133941f36" name="변경" comment="" />
+      <created>1660181772745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660181772745</updated>
+    </task>
+    <servers />
+  </component>
+</project>

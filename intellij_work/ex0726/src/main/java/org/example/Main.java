@@ -13,6 +13,17 @@ public class Main {
         MemberService memberService = acac.getBean(MemberService.class);
         memberService.list();
 
+
+    }
+    public static void newCommaand(MemberDTO dto) {
+        MemberService memberService = acac.getBean(MemberService.class);
+        try {
+            memberService.regist(dto);
+        }catch (Exception e){
+            System.out.println("email 중복됨..... 넣을수 없음...");
+        }
+    }
+    private static void updateCommaand(String email, String oldpwd, String newpwd) {
     }
 
     public static void main(String[] args)  throws IOException {
@@ -23,13 +34,39 @@ public class Main {
 
        try {                                                                        //시도해라
            while (true) {
-               System.out.println("1. list or 2. new aa@naver.com 3. exit");
+               System.out.println("1.list or 2.new aa@naver.com 3.update 4.exit");
                String cmd = br.readLine();
                if(cmd.equalsIgnoreCase("list")){
                    listCommaand();
-               } else if (cmd.startsWith("new ")) {
+               } else if (cmd.startsWith("new")) {
                    //입력
-               } else if (cmd.equalsIgnoreCase("exit")) {
+                   // new aa@navr.com 김길동 1234
+                   try {
+                       String email = cmd.split(" ")[1];
+                       String name = cmd.split(" ")[2];
+                       String pwd = cmd.split(" ")[3];
+                       MemberDTO md = new MemberDTO(email, name, pwd);
+                       newCommaand(md);
+                   } catch (IndexOutOfBoundsException ie){
+                       System.out.println("new aa@naver.com 김길동 1234 \n 이렇게 입력하세요.");
+                   }
+               }
+               else if (cmd.startsWith("update")) {
+                   try {
+                       String email = cmd.split(" ")[1];
+                       String oldpwd = cmd.split(" ")[2];
+                       String newpwd = cmd.split(" ")[3];
+
+                       updateCommaand(email, oldpwd, newpwd);
+
+
+                   }catch (Exception e){
+                       System.out.println("update aa@naver.com 1234 1234\n 이렇게 입렵하세요.");
+                       System.out.println(e.toString());
+                   }
+
+               }
+               else if (cmd.equalsIgnoreCase("exit")) {
                    System.out.println("종료됩니다.");
                    break;
                }
@@ -53,4 +90,6 @@ public class Main {
 //        acac.close();
 
     }
+
+
 }

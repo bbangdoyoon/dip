@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="631b816a-fa7b-4aed-b5bf-4877a23dfd27" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/org/example/ImportConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/org/example/MemberPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/src/main/java/org/example/Appctx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/src/main/java/org/example/ChangePwdService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/src/main/java/org/example/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/src/main/java/org/example/MemberDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/src/main/java/org/example/MemberService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../ex0728/src/main/java/org/example/RequestReq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../pycharm_work/mldl/chap06/calre.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../pycharm_work/mldl/chap06/ex04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/ClassConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/ClassConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/MemberDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/MemberDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/org/example/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/org/example/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../target/classes/org/example/MemberDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../target/classes/org/example/MemberDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../target/classes/org/example/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../target/classes/org/example/MemberService.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CYH4je1T0MoXJQ9n0hXy7rxxrR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/mhgit/intellij_work/ex0726"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="631b816a-fa7b-4aed-b5bf-4877a23dfd27" name="변경" comment="" />
+      <created>1658972409286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658972409286</updated>
+      <workItem from="1658972410473" duration="208000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
