@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+      xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+      layout:decorate="~{layout/layout}">
+<div layout:fragment="content" class="p-3">
+    <h1>freeboard</h1>
+    <strong>dropdown > view</strong>
+    <div class="d-flex justify-content-center">
+        <div class="w-100 p-3" style="color:black;">
+            <h3></h3>
+            <label class="form-label">title</label>
+            <div class="mb-3 text-center">
+                <h4 th:text="${freeboard.title}"></h4>
+            </div>
+            <div class="mb-3" style="background-color:BlanchedAlmond;">
+                <p class="p-3" style="min-height:300px; border-radius:5px;" th:text="${freeboard.content}"></p>
+                <img th:src="@{${'/img/' + freeboard.filename}}" style="width:100%;">
+            </div>
+            <div class="mb-3 w-50" th:if="${!#strings.isEmpty(freeboard.filename)}">
+
+            </div>
+        </div>
+    </div>
+
+    <div class="m-3">
+        <a class="btn btn-secondary" href="/freeboard">list</a>
+        <a class="btn btn-secondary" th:href="@{/freeboard/delete(id=${freeboard.id})}">delete</a>
+        <a class="btn btn-secondary" th:href="@{/freeboard/correction(id=${freeboard.id})}">correction</a>
+    </div>
+
+    <div>
+        <div th:each="freeboardtail : ${freeboard.list}">
+            <div>
+                writer<span th:text="${freeboardtail.t_name}"></span>
+                contents<span th:text="${freeboardtail.t_content}"></span>
+            </div>
+        </div>
+    </div>
+
+    <div style="background-color:BlanchedAlmond;">
+        <h3>write comment</h3>
+        <form method="post">
+            <input type="hidden" name="id" th:value="${freeboard.id}">
+            <div>
+                writer <input class="form-control" type="text" name="t_name">
+            </div>
+            <div>
+                contents
+                <textarea name="t_content" class="form-control"></textarea>
+            </div>
+            <div class="m-3">
+                <input class="btn btn-secondary" type="submit" value="upload">
+            </div>
+        </form>
+    </div>
+</div>
+
+</html>

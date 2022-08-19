@@ -15,7 +15,7 @@
 </head>
 <body>
     <div class = 'container'>
-        <nav class="navbar navbar-expand-lg bg-light">
+        <nav class="navbar navbar-expand-lg" style="background-color : BlanchedAlmond">
             <div class="container-fluid">
                 <a class="navbar-brand" href="/">DIP</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -34,27 +34,24 @@
                                 Dropdown
                             </a>
                             <ul class="dropdown-menu">
-                                <li><a class="dropdown-item" href="freeboard">Board1</a></li>
-                                <li><a class="dropdown-item" href="Board">Board2</a></li>
+                                <li><a class="dropdown-item" href="/freeboard">Board1</a></li>
+                                <li><a class="dropdown-item" href="/Board">Board2</a></li>
                             </ul>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link disabled">another</a>
                         </li>
                     </ul>
-                    <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                        <button class="btn btn-outline-success" type="submit">Search</button>
-                    </form>
+
                 </div>
             </div>
         </nav>
         <div layout:fragment="content" style="min-height:800px">
         </div>
-        <div>
-            <h3>copyright</h3>
-            <p>daegu susung-gu dip</p>
-        </div>
+	<div class="aa">
+	    <h3>copyright</h3>
+	    <p>daegu susung-gu dip</p>
+	</div>
     </div>
 </body>
 </html>
